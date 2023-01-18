@@ -19,7 +19,7 @@
   <summary>Language Statistics...</summary><br/>
   <p align="center">
   <img
-  src="[https://wakatime.com/share/@jyang/26779cdc-8dc3-4dcd-b097-52cfd6663fb5.svg](https://wakatime.com/share/@69eec3e4-3aec-44b2-a5c4-b3255e0742c4/133c2213-92fb-4f0c-9090-242ff62e109a.svg)"
+  src="https://wakatime.com/share/@69eec3e4-3aec-44b2-a5c4-b3255e0742c4/133c2213-92fb-4f0c-9090-242ff62e109a.svg"
   alt="jyang WakaTime Stats"
   height="600"
   width="600"
