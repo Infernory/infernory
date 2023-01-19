@@ -25,4 +25,10 @@
   height="600"
   width="600"
 />
+ <img
+  src="https://wakatime.com/share/@69eec3e4-3aec-44b2-a5c4-b3255e0742c4/344ab08c-c72e-4a75-a66c-d1ece1ac35ac.svg"
+  alt="jyang WakaTime Stats"
+  height="600"
+  width="600"
+/>
   </p>
