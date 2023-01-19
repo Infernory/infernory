@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ryanpabalan" target="blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" alt="ryanpabalan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ryanpabalan" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="ryanpabalan" height="30" width="40" /></a>
 </p>
 <span>JavaScript libraries I enjoy using: Formik, Yup, PropTypes, Font Awesome, Material UI, Feather icons, and much more!</span>
 <h3 align="left">Languages and Tools:</h3>
